@@ -1,5 +1,5 @@
 # norm-signaling
-Agent-based simulation for "An Evolutionary Signaling Model of the Emergence of Norms"
+## Agent-based simulation for "An Evolutionary Signaling Model of the Emergence of Norms"
 
 This is an agent-based simulation of the plural signaling game outlined in 
 "An Evolutionary Signaling Model of Social Norms" (Lindgren 2015). A population of players 
